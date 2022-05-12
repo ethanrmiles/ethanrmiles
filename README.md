@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there, I'm Ethan! 🏄🏼‍♂️
 
-<!--
-**ethanrmiles/ethanrmiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building a more modern way to manage how people track their weightlifting
+- 🌱 I’m working on becoming a master of react
+- 💬 Ask me about Crossfit or olympic weightlifting and I'll never stop talking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me: 
+
+<a href='https://www.linkedin.com/in/ethanrmiles/'>
+<img src='https://user-images.githubusercontent.com/97422217/168162754-7c2af5d9-7548-42ab-865b-93976bd88f8c.png' width=50 >
+</a>
+
+### Languages and Frameworks:
+<div display='flex' width=50%>
+<img src='https://user-images.githubusercontent.com/97422217/168165470-db7dc6f5-446a-46a5-b065-ddac9de73ef7.png' height=50 margin=10 >
+<img src='https://user-images.githubusercontent.com/97422217/168165842-a1817242-7d23-4d89-a87e-4a45a2efb852.png' height=50 margin=10 >
+<img src='https://user-images.githubusercontent.com/97422217/168165957-9ff783d1-5171-4908-957a-3900347107cf.png' height=50 margin=10>
+<img src='https://user-images.githubusercontent.com/97422217/168164536-73fdace3-5089-485a-ad1c-e34726f57273.png' height=50 margin=10 >
+</div>
+
+
+
+
+
