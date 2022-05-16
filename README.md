@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on building a more modern way to manage how people track their weightlifting
 - 🌱 I’m working on becoming a master of react
+- 🔎 Currently learning more about systems architecture
 - 💬 Ask me about Crossfit or olympic weightlifting and I'll never stop talking
 
 ### Connect with me: 
